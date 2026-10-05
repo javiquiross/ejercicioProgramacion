@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        ej1();
 
     }
 
@@ -112,7 +113,7 @@ public class Main {
         System.out.println("Coches: " + porcentajeCoches + " %");
         System.out.println("Motos: " + porcentajeMotos + " %");
         System.out.println("Patinetes: " + porcentajePatinetes + " %");
-        System.out.println("Furgonetas " + porcentajeFurgonetas + " %");
+        System.out.println("Furgonetas: " + porcentajeFurgonetas + " %");
 
     }
 
